@@ -1,0 +1,16 @@
+.ui-tabs-nav {
+    float: left;
+    overflow: hidden;
+    width: 20%;
+}
+.ui-tabs-panel {
+    overflow: hidden;
+    width: 80%;
+}
+
+#tabs ul li a {
+    text-decoration: none;
+    background-color: slategray;
+    color: #fff;
+    padding: 2px 8px;
+}
