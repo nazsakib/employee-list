@@ -2,16 +2,15 @@
 
 /*
  * Plugin Name: Employee List
- * Plugin URI: https://www.sakibmdnazmush.xyz
+ * Plugin URI: https://sakibsnaz.vercel.app/
  * Description: Employee list of an organization.
  * Version: 1.0.0
  * Requires at least: 5.2
  * Requires PHP: 7.2
  * Author: Sakib MD Nazmush
- * Author URI: https://www.sakibmdnazmush.xyz
+ * Author URI: https://sakibsnaz.vercel.app/
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
- * Update URI: https://example.com/my-plugin/
  * Text Domain: employee-list
  * Domain Path: /languages
  */
